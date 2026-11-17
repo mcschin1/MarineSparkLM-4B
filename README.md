@@ -32,7 +32,7 @@ dense embeddings, TF-IDF matrix, chunk text), which exceed GitHub's
 per-file size limit. Get those from one of:
 
 - **Just the LoRA adapter** (for loading with `transformers`/`peft`
-  directly from the Hub): [`<hf-username>/MarineSparkLM-4Bv1`](https://huggingface.co/) *(link added once published)*
+  directly from the Hub): [`mcschin75/MarineSparkLM-4Bv1`](https://huggingface.co/mcschin75/MarineSparkLM-4Bv1)
 - **The complete runnable package** (adapter + full RAG index + this
   README + the paper), as a single archive: see the
   [`MarineSparkLM-4Bv1` release](../../releases/tag/MarineSparkLM-4Bv1)
@@ -177,7 +177,7 @@ Directly from the Hugging Face Hub (no local files needed):
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
 
-adapter_id = "<hf-username>/MarineSparkLM-4Bv1"  # link added once published
+adapter_id = "mcschin75/MarineSparkLM-4Bv1"
 tok = AutoTokenizer.from_pretrained(adapter_id)
 model = AutoModelForCausalLM.from_pretrained(
     "zjunlp/OceanGPT-basic-4B-Instruct", dtype="bfloat16", device_map="cuda"
