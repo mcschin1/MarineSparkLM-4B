@@ -78,9 +78,11 @@ the same 10-theme corpus, for grounding answers in real source passages
 instead of relying on the model's recall alone.
 
 **What this is not:** not a fully human-verified corpus (the model-generated
-QA layer carries a small accepted amount of residual topical noise), and not
-a verified source of engineering fact — check anything load-bearing
-independently.
+QA layer carries a small accepted amount of residual topical noise; a
+closer, author-reviewed check of a 30-item eval subset found 4 items
+off-topic, 13%, suggesting the true rate may run higher than this
+estimate — see the paper's Round 5), and not a verified source of
+engineering fact — check anything load-bearing independently.
 
 **How it compares to the plain base model:** two rounds of scored comparison
 against the bare base model and an earlier continuation-only adapter both
