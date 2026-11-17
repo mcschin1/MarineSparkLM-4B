@@ -91,8 +91,8 @@ any adapter: 79/120 vs 41/120 base, 51/120 continuation-only, p<0.001 both
 ways). RAG grounding helps the plain base model significantly but shows no
 significant benefit on top of this instruction adapter with either TF-IDF
 or dense (embedding) retrieval. Full methodology, generations, scores, and
-the paired-significance stats are in `eval/`; the full writeup is in
-`MarineSparkLM-4B_paper.docx`.
+the paired-significance stats are in `eval/`; the full writeup is the
+paper (see Citation above).
 
 ## What's in this package
 
@@ -109,7 +109,6 @@ rag/                       chunks.jsonl, tfidf.npz, idf.npy, vocab.json, dense_e
 data/qa_seed.jsonl         The 2,295 QA pairs the adapter was trained on
 eval/                      Comparison harness + results vs. base/continuation models,
                            four rounds (including two leakage-free held-out test sets)
-MarineSparkLM-4B_paper.docx  Full writeup (background, training, results, comparison)
 requirements.txt
 ```
 
