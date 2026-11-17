@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+gradio
+numpy
+scipy
+sentence-transformers  # dense retrieval (rag_dense.py) + the upload tab's reranker
+pypdf  # PDF text extraction for the upload tab
+bitsandbytes  # 4-bit quantized backbone for the upload tab

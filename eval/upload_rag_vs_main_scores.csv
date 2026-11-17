@@ -1,0 +1,41 @@
+item,theme,doc_id,condition,accuracy,topicality,specificity,total
+0,naval_architecture,wikipedia:Research vessel,main_rag,0,2,2,4
+0,naval_architecture,wikipedia:Research vessel,upload_rag,0,2,2,4
+1,naval_architecture,arxiv:2010.04037v1,main_rag,0,1,2,3
+1,naval_architecture,arxiv:2010.04037v1,upload_rag,1,2,2,5
+2,hydrodynamics,arxiv:2511.22723v1,main_rag,0,1,2,3
+2,hydrodynamics,arxiv:2511.22723v1,upload_rag,0,0,2,2
+3,hydrodynamics,arxiv:1406.1070v1,main_rag,0,2,2,4
+3,hydrodynamics,arxiv:1406.1070v1,upload_rag,0,2,2,4
+4,propulsion_machinery,wikipedia:Bergen Engines,main_rag,0,2,2,4
+4,propulsion_machinery,wikipedia:Bergen Engines,upload_rag,0,2,1,3
+5,propulsion_machinery,wikipedia:Voith Schneider Propeller,main_rag,1,2,2,5
+5,propulsion_machinery,wikipedia:Voith Schneider Propeller,upload_rag,1,2,2,5
+6,offshore_structures,local:L03 - SAFETY CASE.pdf,main_rag,0,1,1,2
+6,offshore_structures,local:L03 - SAFETY CASE.pdf,upload_rag,2,2,2,6
+7,offshore_structures,wikipedia:Ursa tension leg platform,main_rag,0,1,1,2
+7,offshore_structures,wikipedia:Ursa tension leg platform,upload_rag,1,2,2,5
+8,offshore_energy,wikipedia:Tidal stream generator,main_rag,0,2,1,3
+8,offshore_energy,wikipedia:Tidal stream generator,upload_rag,0,2,1,3
+9,offshore_energy,wikipedia:Verdant Power,main_rag,0,1,2,3
+9,offshore_energy,wikipedia:Verdant Power,upload_rag,1,2,2,5
+10,control_autonomy,frontiers:10.1186/s44147-025-00684-y,main_rag,0,1,2,3
+10,control_autonomy,frontiers:10.1186/s44147-025-00684-y,upload_rag,2,2,1,5
+11,control_autonomy,wikipedia:State observer,main_rag,1,2,2,5
+11,control_autonomy,wikipedia:State observer,upload_rag,0,2,1,3
+12,marine_vehicles,wikipedia:Piranha Unmanned Surface Vessel,main_rag,0,2,2,4
+12,marine_vehicles,wikipedia:Piranha Unmanned Surface Vessel,upload_rag,1,2,2,5
+13,marine_vehicles,arxiv:2511.08822v1,main_rag,0,2,2,4
+13,marine_vehicles,arxiv:2511.08822v1,upload_rag,0,2,2,4
+14,sensors_communications,frontiers:10.22399/ijcesen.1820,main_rag,0,0,1,1
+14,sensors_communications,frontiers:10.22399/ijcesen.1820,upload_rag,2,2,2,6
+15,sensors_communications,wikipedia:Baffles (submarine),main_rag,0,2,2,4
+15,sensors_communications,wikipedia:Baffles (submarine),upload_rag,2,2,2,6
+16,simulation_modelling,arxiv:2508.12867v1,main_rag,1,2,2,5
+16,simulation_modelling,arxiv:2508.12867v1,upload_rag,2,2,2,6
+17,simulation_modelling,arxiv:1811.12580v2,main_rag,0,2,2,4
+17,simulation_modelling,arxiv:1811.12580v2,upload_rag,1,2,2,5
+18,maritime_operations,wikipedia:Flag of convenience,main_rag,0,2,2,4
+18,maritime_operations,wikipedia:Flag of convenience,upload_rag,0,2,1,3
+19,maritime_operations,wikipedia:China Merchants Port,main_rag,1,2,2,5
+19,maritime_operations,wikipedia:China Merchants Port,upload_rag,2,2,2,6

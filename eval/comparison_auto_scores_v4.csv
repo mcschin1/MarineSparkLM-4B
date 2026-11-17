@@ -1,0 +1,481 @@
+item,theme,condition,doc_id,auto_score
+0,naval_architecture,base,wikipedia:Polar Class,0.7511
+1,naval_architecture,base,arxiv:2010.04037v1,0.6926
+2,naval_architecture,base,wikipedia:Courageous-class battlecruiser,0.7949
+3,naval_architecture,base,wikipedia:Partridge 1885,0.5991
+4,naval_architecture,base,wikipedia:Fleet Solid Support Ship Programme,0.7767
+5,naval_architecture,base,wikipedia:Naval architecture,0.7656
+6,naval_architecture,base,mdpi_jmse:10.1007/s13369-023-08219-4,0.5994
+7,naval_architecture,base,wikipedia:Research vessel,0.8887
+8,naval_architecture,base,arxiv:2601.21035v2,0.5663
+9,naval_architecture,base,wikipedia:International Code on Intact Stability,0.7487
+10,hydrodynamics,base,arxiv:2511.22723v1,0.7949
+11,hydrodynamics,base,mdpi_jmse:10.9753/icce.v36v.waves.27,0.5041
+12,hydrodynamics,base,wikipedia:Mark Drela,0.7886
+13,hydrodynamics,base,arxiv:2103.12133v1,0.8705
+14,hydrodynamics,base,arxiv:1406.1070v1,0.8020
+15,hydrodynamics,base,local:modelling and simulation of Marine Surface Vessel Dyynamics.pdf,0.8169
+16,hydrodynamics,base,arxiv:2408.10507v1,0.7175
+17,hydrodynamics,base,arxiv:2508.19824v1,0.8093
+18,hydrodynamics,base,arxiv:2602.15133v1,0.7097
+19,hydrodynamics,base,frontiers:10.57233/ijsgs.v11i3.931,0.5725
+20,propulsion_machinery,base,arxiv:2110.00783v1,0.6974
+21,propulsion_machinery,base,wikipedia:Pulsed inductive thruster,0.7155
+22,propulsion_machinery,base,arxiv:2604.23013v1,0.6647
+23,propulsion_machinery,base,wikipedia:Bergen Engines,0.6370
+24,propulsion_machinery,base,wikipedia:Engine power,0.8587
+25,propulsion_machinery,base,frontiers:10.1007/s00773-019-00646-z,0.9351
+26,propulsion_machinery,base,wikipedia:Voith Schneider Propeller,0.9258
+27,propulsion_machinery,base,wikipedia:Type 214 submarine,0.8124
+28,propulsion_machinery,base,arxiv:2410.09513v1,0.6737
+29,offshore_structures,base,wikipedia:FPSO John Evans Atta Mills,0.7139
+30,offshore_structures,base,wikipedia:Ursa tension leg platform,0.8436
+31,offshore_structures,base,local:L03 - SAFETY CASE.pdf,0.8414
+32,offshore_structures,base,local:OFFSHORE STRUCTURES CONGRESS.pdf,0.7632
+33,offshore_structures,base,arxiv:2012.13481v1,0.7148
+34,offshore_structures,base,mdpi_jmse:10.9753/icce.v37.structures.20,0.7979
+35,offshore_structures,base,local:L11 - SUPPORT VESSELS.pdf,0.5940
+36,offshore_structures,base,mdpi_jmse:10.5545/sv-jme.2025.1366,0.8344
+37,offshore_structures,base,local:L07 - TRANSPORT VESSELS.pdf,0.8013
+38,offshore_structures,base,arxiv:2403.14463v2,0.9186
+39,offshore_structures,base,local:L06 - ACCOMMODATION.pdf,0.8580
+40,offshore_energy,base,arxiv:2610.18264v1,0.5192
+41,offshore_energy,base,mdpi_jmse:10.1186/s40323-026-00319-8,0.5337
+42,offshore_energy,base,wikipedia:Gulf Island Fabrication,0.7868
+43,offshore_energy,base,arxiv:2610.28167v1,0.6129
+44,offshore_energy,base,wikipedia:Environmental impact of wind power,0.7840
+45,offshore_energy,base,arxiv:2009.12485v1,0.6314
+46,offshore_energy,base,frontiers:10.7225/toms.v12.n01.014,0.5499
+47,offshore_energy,base,mdpi_jmse:10.1007/s42417-018-0018-3,0.5615
+48,offshore_energy,base,wikipedia:Verdant Power,0.8287
+49,offshore_energy,base,wikipedia:Geography of Japan,0.8843
+50,offshore_energy,base,wikipedia:Tidal stream generator,0.8878
+51,offshore_energy,base,arxiv:2608.10754v1,0.8209
+52,control_autonomy,base,wikipedia:GSF Development Driller II,0.8216
+53,control_autonomy,base,frontiers:10.1186/s44147-025-00684-y,0.5071
+54,control_autonomy,base,wikipedia:Last Breath (2019 film),0.5570
+55,control_autonomy,base,wikipedia:ROV KIEL 6000,0.8037
+56,control_autonomy,base,wikipedia:Saipem 7000,0.7242
+57,control_autonomy,base,mdpi_jmse:10.61784/wjer3019,0.5284
+58,control_autonomy,base,local:Using underwater robotics in the engineering classroom.pdf,0.6168
+59,control_autonomy,base,arxiv:2603.09183v2,0.5613
+60,control_autonomy,base,local:01d_feedbk_linear_contr_ROV.pdf,0.5360
+61,control_autonomy,base,wikipedia:State observer,0.6711
+62,control_autonomy,base,wikipedia:Kongsberg Maritime,0.7941
+63,marine_vehicles,base,arxiv:2511.08822v1,0.6768
+64,marine_vehicles,base,arxiv:2212.08882v1,0.5835
+65,marine_vehicles,base,arxiv:2108.05792v1,0.4933
+66,marine_vehicles,base,arxiv:2209.08351v1,0.7965
+67,marine_vehicles,base,wikipedia:Nazaré Canyon,0.9101
+68,marine_vehicles,base,arxiv:2002.01022v2,0.5911
+69,marine_vehicles,base,wikipedia:Piranha Unmanned Surface Vessel,0.8308
+70,marine_vehicles,base,wikipedia:ROPOS,0.7919
+71,marine_vehicles,base,arxiv:2310.19408v1,0.7101
+72,marine_vehicles,base,wikipedia:MAGURA V5,0.8196
+73,marine_vehicles,base,arxiv:2110.01646v1,0.8401
+74,sensors_communications,base,frontiers:10.22399/ijcesen.1820,0.5113
+75,sensors_communications,base,wikipedia:Baffles (submarine),0.9037
+76,sensors_communications,base,wikipedia:Captain Sonar,0.7786
+77,sensors_communications,base,arxiv:2006.09034v1,0.7500
+78,sensors_communications,base,arxiv:1709.02153v1,0.6979
+79,sensors_communications,base,arxiv:2206.02840v1,0.8531
+80,sensors_communications,base,arxiv:2006.11453v1,0.9027
+81,sensors_communications,base,arxiv:1006.5827v1,0.6484
+82,sensors_communications,base,frontiers:10.59543/jidmis.v3.1387,0.5331
+83,sensors_communications,base,arxiv:2603.14457v1,0.8112
+84,sensors_communications,base,arxiv:2609.24195v1,0.7181
+85,sensors_communications,base,arxiv:1905.07470v1,0.7393
+86,simulation_modelling,base,arxiv:2501.06525v1,0.8154
+87,simulation_modelling,base,arxiv:2508.03176v1,0.6050
+88,simulation_modelling,base,arxiv:2403.07490v1,0.7743
+89,simulation_modelling,base,arxiv:2508.12867v1,0.7569
+90,simulation_modelling,base,arxiv:2509.06717v1,0.7156
+91,simulation_modelling,base,arxiv:2502.11567v2,0.7402
+92,simulation_modelling,base,arxiv:2501.00450v2,0.8492
+93,simulation_modelling,base,arxiv:2405.20958v2,0.8250
+94,simulation_modelling,base,arxiv:2203.02265v1,0.6552
+95,simulation_modelling,base,mdpi_jmse:10.52088/ijesty.v6i2.1613,0.6218
+96,simulation_modelling,base,arxiv:2205.12699v1,0.8014
+97,simulation_modelling,base,arxiv:1811.12580v2,0.5799
+98,maritime_operations,base,wikipedia:Port of Almeria,0.6528
+99,maritime_operations,base,wikipedia:Passage planning,0.7617
+100,maritime_operations,base,mdpi_jmse:10.38032/scse.2025.3.21,0.5536
+101,maritime_operations,base,wikipedia:World Shipping Council,0.7952
+102,maritime_operations,base,wikipedia:Lixinsha Bridge,0.6964
+103,maritime_operations,base,wikipedia:CMA CGM,0.8286
+104,maritime_operations,base,wikipedia:Nor-Shipping,0.7021
+105,maritime_operations,base,arxiv:2502.18696v2,0.6286
+106,maritime_operations,base,wikipedia:Flag of convenience,0.7977
+107,maritime_operations,base,wikipedia:China Merchants Port,0.7805
+108,maritime_operations,base,wikipedia:USCG Activities Europe,0.7734
+109,maritime_operations,base,arxiv:2504.01393v1,0.8479
+110,naval_architecture,base,wikipedia:Research vessel,0.7145
+111,naval_architecture,base,wikipedia:International Code on Intact Stability,0.6231
+112,hydrodynamics,base,arxiv:1310.5977v1,0.7853
+113,hydrodynamics,base,arxiv:2408.03222v1,0.7213
+114,propulsion_machinery,base,frontiers:10.1007/s11804-023-00359-1,0.8301
+115,propulsion_machinery,base,frontiers:10.54097/ajst.v3i1.1824,0.8242
+116,propulsion_machinery,base,wikipedia:Voith Schneider Propeller,0.8659
+117,offshore_structures,base,wikipedia:Malaysia Marine and Heavy Engineering,0.8451
+118,control_autonomy,base,wikipedia:Dynamic positioning,0.8951
+119,marine_vehicles,base,wikipedia:Large Unmanned Surface Vehicle,0.6362
+0,naval_architecture,continuation_adapter,wikipedia:Polar Class,0.7722
+1,naval_architecture,continuation_adapter,arxiv:2010.04037v1,0.6501
+2,naval_architecture,continuation_adapter,wikipedia:Courageous-class battlecruiser,0.6530
+3,naval_architecture,continuation_adapter,wikipedia:Partridge 1885,0.6590
+4,naval_architecture,continuation_adapter,wikipedia:Fleet Solid Support Ship Programme,0.7479
+5,naval_architecture,continuation_adapter,wikipedia:Naval architecture,0.8378
+6,naval_architecture,continuation_adapter,mdpi_jmse:10.1007/s13369-023-08219-4,0.6009
+7,naval_architecture,continuation_adapter,wikipedia:Research vessel,0.8374
+8,naval_architecture,continuation_adapter,arxiv:2601.21035v2,0.5403
+9,naval_architecture,continuation_adapter,wikipedia:International Code on Intact Stability,0.6552
+10,hydrodynamics,continuation_adapter,arxiv:2511.22723v1,0.7209
+11,hydrodynamics,continuation_adapter,mdpi_jmse:10.9753/icce.v36v.waves.27,0.5432
+12,hydrodynamics,continuation_adapter,wikipedia:Mark Drela,0.6486
+13,hydrodynamics,continuation_adapter,arxiv:2103.12133v1,0.8633
+14,hydrodynamics,continuation_adapter,arxiv:1406.1070v1,0.5200
+15,hydrodynamics,continuation_adapter,local:modelling and simulation of Marine Surface Vessel Dyynamics.pdf,0.7174
+16,hydrodynamics,continuation_adapter,arxiv:2408.10507v1,0.6340
+17,hydrodynamics,continuation_adapter,arxiv:2508.19824v1,0.7886
+18,hydrodynamics,continuation_adapter,arxiv:2602.15133v1,0.6966
+19,hydrodynamics,continuation_adapter,frontiers:10.57233/ijsgs.v11i3.931,0.6986
+20,propulsion_machinery,continuation_adapter,arxiv:2110.00783v1,0.5774
+21,propulsion_machinery,continuation_adapter,wikipedia:Pulsed inductive thruster,0.6585
+22,propulsion_machinery,continuation_adapter,arxiv:2604.23013v1,0.5889
+23,propulsion_machinery,continuation_adapter,wikipedia:Bergen Engines,0.6359
+24,propulsion_machinery,continuation_adapter,wikipedia:Engine power,0.8599
+25,propulsion_machinery,continuation_adapter,frontiers:10.1007/s00773-019-00646-z,0.7179
+26,propulsion_machinery,continuation_adapter,wikipedia:Voith Schneider Propeller,0.8196
+27,propulsion_machinery,continuation_adapter,wikipedia:Type 214 submarine,0.7397
+28,propulsion_machinery,continuation_adapter,arxiv:2410.09513v1,0.6581
+29,offshore_structures,continuation_adapter,wikipedia:FPSO John Evans Atta Mills,0.6728
+30,offshore_structures,continuation_adapter,wikipedia:Ursa tension leg platform,0.7876
+31,offshore_structures,continuation_adapter,local:L03 - SAFETY CASE.pdf,0.8540
+32,offshore_structures,continuation_adapter,local:OFFSHORE STRUCTURES CONGRESS.pdf,0.7163
+33,offshore_structures,continuation_adapter,arxiv:2012.13481v1,0.8564
+34,offshore_structures,continuation_adapter,mdpi_jmse:10.9753/icce.v37.structures.20,0.6136
+35,offshore_structures,continuation_adapter,local:L11 - SUPPORT VESSELS.pdf,0.6862
+36,offshore_structures,continuation_adapter,mdpi_jmse:10.5545/sv-jme.2025.1366,0.6686
+37,offshore_structures,continuation_adapter,local:L07 - TRANSPORT VESSELS.pdf,0.7768
+38,offshore_structures,continuation_adapter,arxiv:2403.14463v2,0.8386
+39,offshore_structures,continuation_adapter,local:L06 - ACCOMMODATION.pdf,0.8100
+40,offshore_energy,continuation_adapter,arxiv:2610.18264v1,0.7448
+41,offshore_energy,continuation_adapter,mdpi_jmse:10.1186/s40323-026-00319-8,0.5066
+42,offshore_energy,continuation_adapter,wikipedia:Gulf Island Fabrication,0.8347
+43,offshore_energy,continuation_adapter,arxiv:2610.28167v1,0.5675
+44,offshore_energy,continuation_adapter,wikipedia:Environmental impact of wind power,0.6195
+45,offshore_energy,continuation_adapter,arxiv:2009.12485v1,0.8297
+46,offshore_energy,continuation_adapter,frontiers:10.7225/toms.v12.n01.014,0.5557
+47,offshore_energy,continuation_adapter,mdpi_jmse:10.1007/s42417-018-0018-3,0.6415
+48,offshore_energy,continuation_adapter,wikipedia:Verdant Power,0.8719
+49,offshore_energy,continuation_adapter,wikipedia:Geography of Japan,0.8943
+50,offshore_energy,continuation_adapter,wikipedia:Tidal stream generator,0.8408
+51,offshore_energy,continuation_adapter,arxiv:2608.10754v1,0.7303
+52,control_autonomy,continuation_adapter,wikipedia:GSF Development Driller II,0.7495
+53,control_autonomy,continuation_adapter,frontiers:10.1186/s44147-025-00684-y,0.5585
+54,control_autonomy,continuation_adapter,wikipedia:Last Breath (2019 film),0.5868
+55,control_autonomy,continuation_adapter,wikipedia:ROV KIEL 6000,0.7799
+56,control_autonomy,continuation_adapter,wikipedia:Saipem 7000,0.5508
+57,control_autonomy,continuation_adapter,mdpi_jmse:10.61784/wjer3019,0.5090
+58,control_autonomy,continuation_adapter,local:Using underwater robotics in the engineering classroom.pdf,0.5782
+59,control_autonomy,continuation_adapter,arxiv:2603.09183v2,0.5303
+60,control_autonomy,continuation_adapter,local:01d_feedbk_linear_contr_ROV.pdf,0.5928
+61,control_autonomy,continuation_adapter,wikipedia:State observer,0.5500
+62,control_autonomy,continuation_adapter,wikipedia:Kongsberg Maritime,0.7013
+63,marine_vehicles,continuation_adapter,arxiv:2511.08822v1,0.6876
+64,marine_vehicles,continuation_adapter,arxiv:2212.08882v1,0.6177
+65,marine_vehicles,continuation_adapter,arxiv:2108.05792v1,0.6145
+66,marine_vehicles,continuation_adapter,arxiv:2209.08351v1,0.8091
+67,marine_vehicles,continuation_adapter,wikipedia:Nazaré Canyon,0.8989
+68,marine_vehicles,continuation_adapter,arxiv:2002.01022v2,0.5590
+69,marine_vehicles,continuation_adapter,wikipedia:Piranha Unmanned Surface Vessel,0.8360
+70,marine_vehicles,continuation_adapter,wikipedia:ROPOS,0.7534
+71,marine_vehicles,continuation_adapter,arxiv:2310.19408v1,0.7250
+72,marine_vehicles,continuation_adapter,wikipedia:MAGURA V5,0.7308
+73,marine_vehicles,continuation_adapter,arxiv:2110.01646v1,0.6950
+74,sensors_communications,continuation_adapter,frontiers:10.22399/ijcesen.1820,0.6270
+75,sensors_communications,continuation_adapter,wikipedia:Baffles (submarine),0.7976
+76,sensors_communications,continuation_adapter,wikipedia:Captain Sonar,0.7746
+77,sensors_communications,continuation_adapter,arxiv:2006.09034v1,0.6538
+78,sensors_communications,continuation_adapter,arxiv:1709.02153v1,0.8192
+79,sensors_communications,continuation_adapter,arxiv:2206.02840v1,0.8485
+80,sensors_communications,continuation_adapter,arxiv:2006.11453v1,0.9044
+81,sensors_communications,continuation_adapter,arxiv:1006.5827v1,0.5058
+82,sensors_communications,continuation_adapter,frontiers:10.59543/jidmis.v3.1387,0.6426
+83,sensors_communications,continuation_adapter,arxiv:2603.14457v1,0.8609
+84,sensors_communications,continuation_adapter,arxiv:2609.24195v1,0.6085
+85,sensors_communications,continuation_adapter,arxiv:1905.07470v1,0.7348
+86,simulation_modelling,continuation_adapter,arxiv:2501.06525v1,0.6938
+87,simulation_modelling,continuation_adapter,arxiv:2508.03176v1,0.6373
+88,simulation_modelling,continuation_adapter,arxiv:2403.07490v1,0.7363
+89,simulation_modelling,continuation_adapter,arxiv:2508.12867v1,0.7371
+90,simulation_modelling,continuation_adapter,arxiv:2509.06717v1,0.6926
+91,simulation_modelling,continuation_adapter,arxiv:2502.11567v2,0.7120
+92,simulation_modelling,continuation_adapter,arxiv:2501.00450v2,0.8081
+93,simulation_modelling,continuation_adapter,arxiv:2405.20958v2,0.6020
+94,simulation_modelling,continuation_adapter,arxiv:2203.02265v1,0.6884
+95,simulation_modelling,continuation_adapter,mdpi_jmse:10.52088/ijesty.v6i2.1613,0.6287
+96,simulation_modelling,continuation_adapter,arxiv:2205.12699v1,0.6906
+97,simulation_modelling,continuation_adapter,arxiv:1811.12580v2,0.5728
+98,maritime_operations,continuation_adapter,wikipedia:Port of Almeria,0.6804
+99,maritime_operations,continuation_adapter,wikipedia:Passage planning,0.7795
+100,maritime_operations,continuation_adapter,mdpi_jmse:10.38032/scse.2025.3.21,0.7189
+101,maritime_operations,continuation_adapter,wikipedia:World Shipping Council,0.7213
+102,maritime_operations,continuation_adapter,wikipedia:Lixinsha Bridge,0.4892
+103,maritime_operations,continuation_adapter,wikipedia:CMA CGM,0.8212
+104,maritime_operations,continuation_adapter,wikipedia:Nor-Shipping,0.5699
+105,maritime_operations,continuation_adapter,arxiv:2502.18696v2,0.5725
+106,maritime_operations,continuation_adapter,wikipedia:Flag of convenience,0.7326
+107,maritime_operations,continuation_adapter,wikipedia:China Merchants Port,0.6508
+108,maritime_operations,continuation_adapter,wikipedia:USCG Activities Europe,0.6264
+109,maritime_operations,continuation_adapter,arxiv:2504.01393v1,0.8628
+110,naval_architecture,continuation_adapter,wikipedia:Research vessel,0.5496
+111,naval_architecture,continuation_adapter,wikipedia:International Code on Intact Stability,0.6328
+112,hydrodynamics,continuation_adapter,arxiv:1310.5977v1,0.6159
+113,hydrodynamics,continuation_adapter,arxiv:2408.03222v1,0.6479
+114,propulsion_machinery,continuation_adapter,frontiers:10.1007/s11804-023-00359-1,0.7484
+115,propulsion_machinery,continuation_adapter,frontiers:10.54097/ajst.v3i1.1824,0.7417
+116,propulsion_machinery,continuation_adapter,wikipedia:Voith Schneider Propeller,0.8380
+117,offshore_structures,continuation_adapter,wikipedia:Malaysia Marine and Heavy Engineering,0.7272
+118,control_autonomy,continuation_adapter,wikipedia:Dynamic positioning,0.8692
+119,marine_vehicles,continuation_adapter,wikipedia:Large Unmanned Surface Vehicle,0.8569
+0,naval_architecture,instruction_adapter,wikipedia:Polar Class,0.8371
+1,naval_architecture,instruction_adapter,arxiv:2010.04037v1,0.7476
+2,naval_architecture,instruction_adapter,wikipedia:Courageous-class battlecruiser,0.7579
+3,naval_architecture,instruction_adapter,wikipedia:Partridge 1885,0.7447
+4,naval_architecture,instruction_adapter,wikipedia:Fleet Solid Support Ship Programme,0.7040
+5,naval_architecture,instruction_adapter,wikipedia:Naval architecture,0.8959
+6,naval_architecture,instruction_adapter,mdpi_jmse:10.1007/s13369-023-08219-4,0.5829
+7,naval_architecture,instruction_adapter,wikipedia:Research vessel,0.8202
+8,naval_architecture,instruction_adapter,arxiv:2601.21035v2,0.6937
+9,naval_architecture,instruction_adapter,wikipedia:International Code on Intact Stability,0.7568
+10,hydrodynamics,instruction_adapter,arxiv:2511.22723v1,0.7017
+11,hydrodynamics,instruction_adapter,mdpi_jmse:10.9753/icce.v36v.waves.27,0.6713
+12,hydrodynamics,instruction_adapter,wikipedia:Mark Drela,0.6083
+13,hydrodynamics,instruction_adapter,arxiv:2103.12133v1,0.7886
+14,hydrodynamics,instruction_adapter,arxiv:1406.1070v1,0.9268
+15,hydrodynamics,instruction_adapter,local:modelling and simulation of Marine Surface Vessel Dyynamics.pdf,0.8507
+16,hydrodynamics,instruction_adapter,arxiv:2408.10507v1,0.6012
+17,hydrodynamics,instruction_adapter,arxiv:2508.19824v1,0.7849
+18,hydrodynamics,instruction_adapter,arxiv:2602.15133v1,0.7943
+19,hydrodynamics,instruction_adapter,frontiers:10.57233/ijsgs.v11i3.931,0.5664
+20,propulsion_machinery,instruction_adapter,arxiv:2110.00783v1,0.7131
+21,propulsion_machinery,instruction_adapter,wikipedia:Pulsed inductive thruster,0.7967
+22,propulsion_machinery,instruction_adapter,arxiv:2604.23013v1,0.6436
+23,propulsion_machinery,instruction_adapter,wikipedia:Bergen Engines,0.7978
+24,propulsion_machinery,instruction_adapter,wikipedia:Engine power,0.9075
+25,propulsion_machinery,instruction_adapter,frontiers:10.1007/s00773-019-00646-z,0.8926
+26,propulsion_machinery,instruction_adapter,wikipedia:Voith Schneider Propeller,0.8373
+27,propulsion_machinery,instruction_adapter,wikipedia:Type 214 submarine,0.7998
+28,propulsion_machinery,instruction_adapter,arxiv:2410.09513v1,0.6799
+29,offshore_structures,instruction_adapter,wikipedia:FPSO John Evans Atta Mills,0.6904
+30,offshore_structures,instruction_adapter,wikipedia:Ursa tension leg platform,0.7185
+31,offshore_structures,instruction_adapter,local:L03 - SAFETY CASE.pdf,0.8902
+32,offshore_structures,instruction_adapter,local:OFFSHORE STRUCTURES CONGRESS.pdf,0.6913
+33,offshore_structures,instruction_adapter,arxiv:2012.13481v1,0.8167
+34,offshore_structures,instruction_adapter,mdpi_jmse:10.9753/icce.v37.structures.20,0.6772
+35,offshore_structures,instruction_adapter,local:L11 - SUPPORT VESSELS.pdf,0.7427
+36,offshore_structures,instruction_adapter,mdpi_jmse:10.5545/sv-jme.2025.1366,0.8763
+37,offshore_structures,instruction_adapter,local:L07 - TRANSPORT VESSELS.pdf,0.8494
+38,offshore_structures,instruction_adapter,arxiv:2403.14463v2,0.8524
+39,offshore_structures,instruction_adapter,local:L06 - ACCOMMODATION.pdf,0.8790
+40,offshore_energy,instruction_adapter,arxiv:2610.18264v1,0.6847
+41,offshore_energy,instruction_adapter,mdpi_jmse:10.1186/s40323-026-00319-8,0.6196
+42,offshore_energy,instruction_adapter,wikipedia:Gulf Island Fabrication,0.8103
+43,offshore_energy,instruction_adapter,arxiv:2610.28167v1,0.6557
+44,offshore_energy,instruction_adapter,wikipedia:Environmental impact of wind power,0.7859
+45,offshore_energy,instruction_adapter,arxiv:2009.12485v1,0.6307
+46,offshore_energy,instruction_adapter,frontiers:10.7225/toms.v12.n01.014,0.5478
+47,offshore_energy,instruction_adapter,mdpi_jmse:10.1007/s42417-018-0018-3,0.8401
+48,offshore_energy,instruction_adapter,wikipedia:Verdant Power,0.7127
+49,offshore_energy,instruction_adapter,wikipedia:Geography of Japan,0.8591
+50,offshore_energy,instruction_adapter,wikipedia:Tidal stream generator,0.9295
+51,offshore_energy,instruction_adapter,arxiv:2608.10754v1,0.7354
+52,control_autonomy,instruction_adapter,wikipedia:GSF Development Driller II,0.8000
+53,control_autonomy,instruction_adapter,frontiers:10.1186/s44147-025-00684-y,0.7182
+54,control_autonomy,instruction_adapter,wikipedia:Last Breath (2019 film),0.6183
+55,control_autonomy,instruction_adapter,wikipedia:ROV KIEL 6000,0.7152
+56,control_autonomy,instruction_adapter,wikipedia:Saipem 7000,0.7773
+57,control_autonomy,instruction_adapter,mdpi_jmse:10.61784/wjer3019,0.7500
+58,control_autonomy,instruction_adapter,local:Using underwater robotics in the engineering classroom.pdf,0.7829
+59,control_autonomy,instruction_adapter,arxiv:2603.09183v2,0.5709
+60,control_autonomy,instruction_adapter,local:01d_feedbk_linear_contr_ROV.pdf,0.8581
+61,control_autonomy,instruction_adapter,wikipedia:State observer,0.8426
+62,control_autonomy,instruction_adapter,wikipedia:Kongsberg Maritime,0.8182
+63,marine_vehicles,instruction_adapter,arxiv:2511.08822v1,0.6788
+64,marine_vehicles,instruction_adapter,arxiv:2212.08882v1,0.8038
+65,marine_vehicles,instruction_adapter,arxiv:2108.05792v1,0.8678
+66,marine_vehicles,instruction_adapter,arxiv:2209.08351v1,0.8633
+67,marine_vehicles,instruction_adapter,wikipedia:Nazaré Canyon,0.7990
+68,marine_vehicles,instruction_adapter,arxiv:2002.01022v2,0.7577
+69,marine_vehicles,instruction_adapter,wikipedia:Piranha Unmanned Surface Vessel,0.7590
+70,marine_vehicles,instruction_adapter,wikipedia:ROPOS,0.8152
+71,marine_vehicles,instruction_adapter,arxiv:2310.19408v1,0.6829
+72,marine_vehicles,instruction_adapter,wikipedia:MAGURA V5,0.6925
+73,marine_vehicles,instruction_adapter,arxiv:2110.01646v1,0.6877
+74,sensors_communications,instruction_adapter,frontiers:10.22399/ijcesen.1820,0.6169
+75,sensors_communications,instruction_adapter,wikipedia:Baffles (submarine),0.9185
+76,sensors_communications,instruction_adapter,wikipedia:Captain Sonar,0.7178
+77,sensors_communications,instruction_adapter,arxiv:2006.09034v1,0.6864
+78,sensors_communications,instruction_adapter,arxiv:1709.02153v1,0.7095
+79,sensors_communications,instruction_adapter,arxiv:2206.02840v1,0.8772
+80,sensors_communications,instruction_adapter,arxiv:2006.11453v1,0.8499
+81,sensors_communications,instruction_adapter,arxiv:1006.5827v1,0.7571
+82,sensors_communications,instruction_adapter,frontiers:10.59543/jidmis.v3.1387,0.6186
+83,sensors_communications,instruction_adapter,arxiv:2603.14457v1,0.8148
+84,sensors_communications,instruction_adapter,arxiv:2609.24195v1,0.6727
+85,sensors_communications,instruction_adapter,arxiv:1905.07470v1,0.7218
+86,simulation_modelling,instruction_adapter,arxiv:2501.06525v1,0.8187
+87,simulation_modelling,instruction_adapter,arxiv:2508.03176v1,0.7220
+88,simulation_modelling,instruction_adapter,arxiv:2403.07490v1,0.7519
+89,simulation_modelling,instruction_adapter,arxiv:2508.12867v1,0.7000
+90,simulation_modelling,instruction_adapter,arxiv:2509.06717v1,0.7974
+91,simulation_modelling,instruction_adapter,arxiv:2502.11567v2,0.7596
+92,simulation_modelling,instruction_adapter,arxiv:2501.00450v2,0.7981
+93,simulation_modelling,instruction_adapter,arxiv:2405.20958v2,0.7085
+94,simulation_modelling,instruction_adapter,arxiv:2203.02265v1,0.6508
+95,simulation_modelling,instruction_adapter,mdpi_jmse:10.52088/ijesty.v6i2.1613,0.6413
+96,simulation_modelling,instruction_adapter,arxiv:2205.12699v1,0.7867
+97,simulation_modelling,instruction_adapter,arxiv:1811.12580v2,0.6345
+98,maritime_operations,instruction_adapter,wikipedia:Port of Almeria,0.6724
+99,maritime_operations,instruction_adapter,wikipedia:Passage planning,0.8802
+100,maritime_operations,instruction_adapter,mdpi_jmse:10.38032/scse.2025.3.21,0.6558
+101,maritime_operations,instruction_adapter,wikipedia:World Shipping Council,0.8009
+102,maritime_operations,instruction_adapter,wikipedia:Lixinsha Bridge,0.6895
+103,maritime_operations,instruction_adapter,wikipedia:CMA CGM,0.7079
+104,maritime_operations,instruction_adapter,wikipedia:Nor-Shipping,0.7312
+105,maritime_operations,instruction_adapter,arxiv:2502.18696v2,0.7292
+106,maritime_operations,instruction_adapter,wikipedia:Flag of convenience,0.8619
+107,maritime_operations,instruction_adapter,wikipedia:China Merchants Port,0.8280
+108,maritime_operations,instruction_adapter,wikipedia:USCG Activities Europe,0.8419
+109,maritime_operations,instruction_adapter,arxiv:2504.01393v1,0.8720
+110,naval_architecture,instruction_adapter,wikipedia:Research vessel,0.5920
+111,naval_architecture,instruction_adapter,wikipedia:International Code on Intact Stability,0.7380
+112,hydrodynamics,instruction_adapter,arxiv:1310.5977v1,0.7705
+113,hydrodynamics,instruction_adapter,arxiv:2408.03222v1,0.8532
+114,propulsion_machinery,instruction_adapter,frontiers:10.1007/s11804-023-00359-1,0.8480
+115,propulsion_machinery,instruction_adapter,frontiers:10.54097/ajst.v3i1.1824,0.8735
+116,propulsion_machinery,instruction_adapter,wikipedia:Voith Schneider Propeller,0.7584
+117,offshore_structures,instruction_adapter,wikipedia:Malaysia Marine and Heavy Engineering,0.8862
+118,control_autonomy,instruction_adapter,wikipedia:Dynamic positioning,0.8968
+119,marine_vehicles,instruction_adapter,wikipedia:Large Unmanned Surface Vehicle,0.8738
+0,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Polar Class,0.8289
+1,naval_architecture,instruction_adapter_rag_tfidf,arxiv:2010.04037v1,0.7114
+2,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Courageous-class battlecruiser,0.7579
+3,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Partridge 1885,0.7447
+4,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Fleet Solid Support Ship Programme,0.7040
+5,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Naval architecture,0.8959
+6,naval_architecture,instruction_adapter_rag_tfidf,mdpi_jmse:10.1007/s13369-023-08219-4,0.6058
+7,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Research vessel,0.8367
+8,naval_architecture,instruction_adapter_rag_tfidf,arxiv:2601.21035v2,0.6937
+9,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:International Code on Intact Stability,0.7568
+10,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:2511.22723v1,0.7272
+11,hydrodynamics,instruction_adapter_rag_tfidf,mdpi_jmse:10.9753/icce.v36v.waves.27,0.6701
+12,hydrodynamics,instruction_adapter_rag_tfidf,wikipedia:Mark Drela,0.8019
+13,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:2103.12133v1,0.8631
+14,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:1406.1070v1,0.8987
+15,hydrodynamics,instruction_adapter_rag_tfidf,local:modelling and simulation of Marine Surface Vessel Dyynamics.pdf,0.8866
+16,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:2408.10507v1,0.7423
+17,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:2508.19824v1,0.8030
+18,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:2602.15133v1,0.7843
+19,hydrodynamics,instruction_adapter_rag_tfidf,frontiers:10.57233/ijsgs.v11i3.931,0.5294
+20,propulsion_machinery,instruction_adapter_rag_tfidf,arxiv:2110.00783v1,0.7631
+21,propulsion_machinery,instruction_adapter_rag_tfidf,wikipedia:Pulsed inductive thruster,0.7740
+22,propulsion_machinery,instruction_adapter_rag_tfidf,arxiv:2604.23013v1,0.7016
+23,propulsion_machinery,instruction_adapter_rag_tfidf,wikipedia:Bergen Engines,0.7110
+24,propulsion_machinery,instruction_adapter_rag_tfidf,wikipedia:Engine power,0.9075
+25,propulsion_machinery,instruction_adapter_rag_tfidf,frontiers:10.1007/s00773-019-00646-z,0.8926
+26,propulsion_machinery,instruction_adapter_rag_tfidf,wikipedia:Voith Schneider Propeller,0.8483
+27,propulsion_machinery,instruction_adapter_rag_tfidf,wikipedia:Type 214 submarine,0.7535
+28,propulsion_machinery,instruction_adapter_rag_tfidf,arxiv:2410.09513v1,0.7181
+29,offshore_structures,instruction_adapter_rag_tfidf,wikipedia:FPSO John Evans Atta Mills,0.6389
+30,offshore_structures,instruction_adapter_rag_tfidf,wikipedia:Ursa tension leg platform,0.8025
+31,offshore_structures,instruction_adapter_rag_tfidf,local:L03 - SAFETY CASE.pdf,0.8222
+32,offshore_structures,instruction_adapter_rag_tfidf,local:OFFSHORE STRUCTURES CONGRESS.pdf,0.7222
+33,offshore_structures,instruction_adapter_rag_tfidf,arxiv:2012.13481v1,0.8528
+34,offshore_structures,instruction_adapter_rag_tfidf,mdpi_jmse:10.9753/icce.v37.structures.20,0.7511
+35,offshore_structures,instruction_adapter_rag_tfidf,local:L11 - SUPPORT VESSELS.pdf,0.7427
+36,offshore_structures,instruction_adapter_rag_tfidf,mdpi_jmse:10.5545/sv-jme.2025.1366,0.9065
+37,offshore_structures,instruction_adapter_rag_tfidf,local:L07 - TRANSPORT VESSELS.pdf,0.5956
+38,offshore_structures,instruction_adapter_rag_tfidf,arxiv:2403.14463v2,0.8479
+39,offshore_structures,instruction_adapter_rag_tfidf,local:L06 - ACCOMMODATION.pdf,0.8086
+40,offshore_energy,instruction_adapter_rag_tfidf,arxiv:2610.18264v1,0.5898
+41,offshore_energy,instruction_adapter_rag_tfidf,mdpi_jmse:10.1186/s40323-026-00319-8,0.6452
+42,offshore_energy,instruction_adapter_rag_tfidf,wikipedia:Gulf Island Fabrication,0.8311
+43,offshore_energy,instruction_adapter_rag_tfidf,arxiv:2610.28167v1,0.7243
+44,offshore_energy,instruction_adapter_rag_tfidf,wikipedia:Environmental impact of wind power,0.7859
+45,offshore_energy,instruction_adapter_rag_tfidf,arxiv:2009.12485v1,0.5293
+46,offshore_energy,instruction_adapter_rag_tfidf,frontiers:10.7225/toms.v12.n01.014,0.5381
+47,offshore_energy,instruction_adapter_rag_tfidf,mdpi_jmse:10.1007/s42417-018-0018-3,0.6541
+48,offshore_energy,instruction_adapter_rag_tfidf,wikipedia:Verdant Power,0.8167
+49,offshore_energy,instruction_adapter_rag_tfidf,wikipedia:Geography of Japan,0.7394
+50,offshore_energy,instruction_adapter_rag_tfidf,wikipedia:Tidal stream generator,0.9285
+51,offshore_energy,instruction_adapter_rag_tfidf,arxiv:2608.10754v1,0.7629
+52,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:GSF Development Driller II,0.8000
+53,control_autonomy,instruction_adapter_rag_tfidf,frontiers:10.1186/s44147-025-00684-y,0.5066
+54,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:Last Breath (2019 film),0.6298
+55,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:ROV KIEL 6000,0.7069
+56,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:Saipem 7000,0.7626
+57,control_autonomy,instruction_adapter_rag_tfidf,mdpi_jmse:10.61784/wjer3019,0.5786
+58,control_autonomy,instruction_adapter_rag_tfidf,local:Using underwater robotics in the engineering classroom.pdf,0.6171
+59,control_autonomy,instruction_adapter_rag_tfidf,arxiv:2603.09183v2,0.5709
+60,control_autonomy,instruction_adapter_rag_tfidf,local:01d_feedbk_linear_contr_ROV.pdf,0.5850
+61,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:State observer,0.8154
+62,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:Kongsberg Maritime,0.8292
+63,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2511.08822v1,0.6788
+64,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2212.08882v1,0.6058
+65,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2108.05792v1,0.8678
+66,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2209.08351v1,0.8490
+67,marine_vehicles,instruction_adapter_rag_tfidf,wikipedia:Nazaré Canyon,0.7990
+68,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2002.01022v2,0.8654
+69,marine_vehicles,instruction_adapter_rag_tfidf,wikipedia:Piranha Unmanned Surface Vessel,0.7392
+70,marine_vehicles,instruction_adapter_rag_tfidf,wikipedia:ROPOS,0.8152
+71,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2310.19408v1,0.6731
+72,marine_vehicles,instruction_adapter_rag_tfidf,wikipedia:MAGURA V5,0.7823
+73,marine_vehicles,instruction_adapter_rag_tfidf,arxiv:2110.01646v1,0.6877
+74,sensors_communications,instruction_adapter_rag_tfidf,frontiers:10.22399/ijcesen.1820,0.6164
+75,sensors_communications,instruction_adapter_rag_tfidf,wikipedia:Baffles (submarine),0.8852
+76,sensors_communications,instruction_adapter_rag_tfidf,wikipedia:Captain Sonar,0.7955
+77,sensors_communications,instruction_adapter_rag_tfidf,arxiv:2006.09034v1,0.6864
+78,sensors_communications,instruction_adapter_rag_tfidf,arxiv:1709.02153v1,0.7280
+79,sensors_communications,instruction_adapter_rag_tfidf,arxiv:2206.02840v1,0.7771
+80,sensors_communications,instruction_adapter_rag_tfidf,arxiv:2006.11453v1,0.8499
+81,sensors_communications,instruction_adapter_rag_tfidf,arxiv:1006.5827v1,0.5629
+82,sensors_communications,instruction_adapter_rag_tfidf,frontiers:10.59543/jidmis.v3.1387,0.4631
+83,sensors_communications,instruction_adapter_rag_tfidf,arxiv:2603.14457v1,0.7969
+84,sensors_communications,instruction_adapter_rag_tfidf,arxiv:2609.24195v1,0.7146
+85,sensors_communications,instruction_adapter_rag_tfidf,arxiv:1905.07470v1,0.7218
+86,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2501.06525v1,0.7807
+87,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2508.03176v1,0.7069
+88,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2403.07490v1,0.7572
+89,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2508.12867v1,0.7499
+90,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2509.06717v1,0.6598
+91,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2502.11567v2,0.7628
+92,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2501.00450v2,0.7682
+93,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2405.20958v2,0.8916
+94,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2203.02265v1,0.7755
+95,simulation_modelling,instruction_adapter_rag_tfidf,mdpi_jmse:10.52088/ijesty.v6i2.1613,0.5873
+96,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:2205.12699v1,0.7177
+97,simulation_modelling,instruction_adapter_rag_tfidf,arxiv:1811.12580v2,0.7258
+98,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:Port of Almeria,0.5641
+99,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:Passage planning,0.8497
+100,maritime_operations,instruction_adapter_rag_tfidf,mdpi_jmse:10.38032/scse.2025.3.21,0.6739
+101,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:World Shipping Council,0.5931
+102,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:Lixinsha Bridge,0.5448
+103,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:CMA CGM,0.7506
+104,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:Nor-Shipping,0.7392
+105,maritime_operations,instruction_adapter_rag_tfidf,arxiv:2502.18696v2,0.7415
+106,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:Flag of convenience,0.8386
+107,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:China Merchants Port,0.9002
+108,maritime_operations,instruction_adapter_rag_tfidf,wikipedia:USCG Activities Europe,0.8419
+109,maritime_operations,instruction_adapter_rag_tfidf,arxiv:2504.01393v1,0.8619
+110,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:Research vessel,0.5920
+111,naval_architecture,instruction_adapter_rag_tfidf,wikipedia:International Code on Intact Stability,0.7380
+112,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:1310.5977v1,0.8417
+113,hydrodynamics,instruction_adapter_rag_tfidf,arxiv:2408.03222v1,0.8532
+114,propulsion_machinery,instruction_adapter_rag_tfidf,frontiers:10.1007/s11804-023-00359-1,0.8217
+115,propulsion_machinery,instruction_adapter_rag_tfidf,frontiers:10.54097/ajst.v3i1.1824,0.7653
+116,propulsion_machinery,instruction_adapter_rag_tfidf,wikipedia:Voith Schneider Propeller,0.7643
+117,offshore_structures,instruction_adapter_rag_tfidf,wikipedia:Malaysia Marine and Heavy Engineering,0.8957
+118,control_autonomy,instruction_adapter_rag_tfidf,wikipedia:Dynamic positioning,0.9085
+119,marine_vehicles,instruction_adapter_rag_tfidf,wikipedia:Large Unmanned Surface Vehicle,0.8539
