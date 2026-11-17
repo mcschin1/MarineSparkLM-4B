@@ -193,7 +193,6 @@ model = PeftModel.from_pretrained(model, "adapter/best_adapter")
 
 ## Limitations
 
-- The QA training set is partly model-generated, not fully human-verified.
 - The adapter was trained independently of the base model's own tuning —
   not stacked with any other adapter.
 - Not a verified source of engineering fact; treat outputs as domain-biased
